@@ -33,3 +33,19 @@ npm run build
 ```sh
 npm run lint
 ```
+### Tailwind
+
+```sh
+npm i tailwind
+```
+
+### SASS
+
+```sh
+npm i sass
+```
+
+### DaisyUI [DaisyUI](https://daisyui.com/docs/install/) 
+```sh
+npm i -D daisyui@latest
+```
