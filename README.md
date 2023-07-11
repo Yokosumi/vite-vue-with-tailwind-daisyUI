@@ -45,7 +45,7 @@ npm install -D tailwindcss postcss autoprefixer
 npm i sass
 ```
 
-### DaisyUI [DaisyUI](https://daisyui.com/docs/install/) 
+### [DaisyUI](https://daisyui.com/docs/install/) 
 ```sh
 npm i -D daisyui@latest
 ```
