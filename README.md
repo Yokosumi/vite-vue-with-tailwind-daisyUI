@@ -1,4 +1,4 @@
-# cat-site
+# vite-vue-tailwind-daisyUI
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -32,4 +32,20 @@ npm run build
 
 ```sh
 npm run lint
+```
+### [Tailwind](https://tailwindcss.com/docs/guides/vite#vue)
+
+```sh
+npm install -D tailwindcss postcss autoprefixer
+```
+
+### SASS
+
+```sh
+npm i sass
+```
+
+### [DaisyUI](https://daisyui.com/docs/install/) 
+```sh
+npm i -D daisyui@latest
 ```
