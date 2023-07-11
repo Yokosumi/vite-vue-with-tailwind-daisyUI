@@ -33,10 +33,10 @@ npm run build
 ```sh
 npm run lint
 ```
-### Tailwind
+### [Tailwind](https://tailwindcss.com/docs/guides/vite#vue)
 
 ```sh
-npm i tailwind
+npm install -D tailwindcss postcss autoprefixer
 ```
 
 ### SASS
